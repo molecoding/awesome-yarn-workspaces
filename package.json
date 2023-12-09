@@ -1,0 +1,9 @@
+{
+  "name": "awesome-yarn-workspaces",
+  "packageManager": "yarn@3.7.0",
+  "workspaces": [
+    "utilities",
+    "parts",
+    "app"
+  ]
+}
